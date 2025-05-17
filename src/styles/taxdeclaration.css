@@ -1,0 +1,35 @@
+.project-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.project-table th, .project-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.project-table th {
+  background-color: var(--primary-color);
+  color: var(--white-color);
+  text-align: center;
+}
+
+.project-table tr:nth-child(even) {
+  background-color: var(--light-gray-color);
+}
+
+.project-table tr:hover {
+  background-color: var(--hover-color);
+}
+
+.project-table td {
+  text-align: center;
+}
+
+.custom-search{
+  width: 24px;
+
+}
+
+

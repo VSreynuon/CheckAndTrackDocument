@@ -1,0 +1,26 @@
+.filter-button {
+  display: flex;
+  align-items: center;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  color: var(--white-color);
+  background-color: var(--button-blue);
+  cursor: pointer;
+  transition: 0.1s ease-in-out;
+}
+
+.filter-button:hover {
+  color: var(--white-color);
+  background-color: var(--primary-color);
+}
+
+.filter-icon {
+  margin-right: 8px;
+  font-size: 20px; /* Adjust size if needed */
+}
+
+.filter-text {
+  font-size: 16px;
+}

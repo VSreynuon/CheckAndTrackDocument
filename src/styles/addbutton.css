@@ -1,0 +1,21 @@
+.add-button{
+    margin-top: 25px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    background: var(--button-blue);
+    color: var(--white-color);
+    transition: 0.3s ease-in-out;
+}
+.add-button:hover{
+    border: none;
+    outline: none;
+    color: var(--white-color);
+    background-color: var(--primary-color);
+}
+.add-button .icon{
+    border-radius: 4px;
+    font-size: 24px;
+}
