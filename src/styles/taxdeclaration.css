@@ -1,35 +1,26 @@
-.project-table {
-  width: 100%;
-  border-collapse: collapse;
-  text-align: left;
+
+.plus-button{
+  display: flex;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  justify-content: flex-end;
+}
+.search-form{
+  display: flex;
+  margin-bottom: 25px;
+  width: 40%;
 }
 
-.project-table th, .project-table td {
-  border: 1px solid #ddd;
-  padding: 8px;
+.pagination-container{
+  display: flex;
+  justify-content: space-between;
 }
-
-.project-table th {
-  background-color: var(--primary-color);
-  color: var(--white-color);
+.primary-header {
+  background-color: var(--button-blue);
+}
+.primary-header th {
+  background-color: var(--button-blue);
+  color: white;
   text-align: center;
+  padding: 12px;
 }
-
-.project-table tr:nth-child(even) {
-  background-color: var(--light-gray-color);
-}
-
-.project-table tr:hover {
-  background-color: var(--hover-color);
-}
-
-.project-table td {
-  text-align: center;
-}
-
-.custom-search{
-  width: 24px;
-
-}
-
-

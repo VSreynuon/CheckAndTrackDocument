@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  justify-content: space-between; /* Distributes buttons evenly */
+  align-items: center; /* Centers items vertically */
+  width: 100%;
+  padding: 16px;
+}
+
+.button {
+  padding: 10px 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: 2px solid #ccc;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  border-radius: 8px;
+}
+
+.back {
+  background-color: white;
+  color: #666;
+}
+
+.next {
+  background-color: green;
+  color: white;
+}
+
+.button:hover {
+  background-color: #444;
+  color: white;
+}

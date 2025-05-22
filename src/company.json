@@ -1,0 +1,40 @@
+{
+  "companies": [
+    {
+      "id": "bef2",
+      "vatin": "E0938374",
+      "name": "Khmer24",
+      "taxId": "L0935857",
+      "phone": "09832827348",
+      "taxPayment": "pending",
+      "email": "sample@gmail.com"
+    },
+    {
+      "id": "f695",
+      "vatin": "E0938374",
+      "name": "Khmer24",
+      "taxId": "L0935857",
+      "phone": "09832827348",
+      "taxPayment": "pending",
+      "email": "sample@gmail.com"
+    },
+    {
+      "id": "47a2",
+      "vatin": "E0938374",
+      "name": "Khmer24",
+      "taxId": "L0935857",
+      "phone": "09832827348",
+      "taxPayment": "pending",
+      "email": "sample@gmail.com"
+    },
+    {
+      "id": "aa62",
+      "vatin": "E0938374",
+      "name": "Khmer24",
+      "taxId": "L0935857",
+      "phone": "09832827348",
+      "taxPayment": "pending",
+      "email": "sample@gmail.com"
+    }
+  ]
+}
